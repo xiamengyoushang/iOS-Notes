@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "YYKitDemo">
+      <FileRef
+         location = "group:YYKitDemo/YYKitDemo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Bili ijkplayer">
+      <FileRef
+         location = "group:ijkplayer_Demo/ijkplayer_Demo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "JavascriptBridge">
+      <FileRef
+         location = "group:JavascriptBridge/JavascriptBridge.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "SDWebimage">
+      <FileRef
+         location = "group:SDWebimage_Demo/SDWebimage_Demo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "AFNetworking">
+      <FileRef
+         location = "group:AFNetworking_Demo/AFNetworking_Demo.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Masonry">
+      <FileRef
+         location = "group:Masonry_Demo/Masonry_Demo.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
