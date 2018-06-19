@@ -3,6 +3,13 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "iOS Test">
+      <FileRef
+         location = "group:iOS Test/iOS Test.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
       name = "YYKitDemo">
       <FileRef
          location = "group:YYKitDemo/YYKitDemo.xcodeproj">
