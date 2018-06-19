@@ -21,7 +21,7 @@ static Person *person;
     return person;
 }
 - (id)init{
-    if (self == [super init]) {}
+    if (self = [super init]) {}
     return self;
 }
 
